@@ -88,7 +88,7 @@ Users can interact with the dashboard using:
 - Main Category
 - Sub Category
 
-![Amazon Product Analysis Dashboard]([images/amazon_dashboard.png](https://intrast-my.sharepoint.com/:u:/g/personal/ah_mah9120475_intrast_com_eg/IQCnuP3cZObHRYUFXY1ik4lGAfGrymHXzLFnHchKmAAlEsM?e=OjH9mQ))
+![Amazon Product Analysis Dashboard](https://intrast-my.sharepoint.com/:u:/g/personal/ah_mah9120475_intrast_com_eg/IQCnuP3cZObHRYUFXY1ik4lGAfGrymHXzLFnHchKmAAlEsM?e=OjH9mQ)
 
 ---
 
