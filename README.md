@@ -32,7 +32,10 @@ The analysis covers data cleaning, preprocessing, exploratory data analysis, fea
 
 ## Dashboard
 
-The Power BI dashboard summarizes median actual price, average rating, total ratings, average discount percentage, product counts, and ratings by category. The repository includes a PNG preview. The Power BI .pbix report file is not included, so the report cannot currently be opened interactively from this repository.
+The Power BI dashboard summarizes median actual price, average rating, total ratings, average discount percentage, product counts, and ratings by category.
+
+- **Preview:** see the image above (`images/amazon_dashboard.png`).
+- **Interactive report:** download [`Dashbord/Amazon_dashbord.pbix`](Dashbord/Amazon_dashbord.pbix) and open it with Power BI Desktop. GitHub cannot preview `.pbix` files in the browser.
 
 ## Project files
 
