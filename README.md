@@ -41,7 +41,10 @@ The Power BI dashboard summarizes median actual price, average rating, total rat
 
 ```text
 amazon-product-analysis/
-├── Amazon_Product_Analysis.ipynb
+├── Dashbord/
+│   └── Amazon_dashbord.pbix
+├── Notebook/
+│   └── Amazon_Product_Analysis.ipynb
 ├── images/
 │   └── amazon_dashboard.png
 └── README.md
